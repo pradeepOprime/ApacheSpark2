@@ -7,7 +7,7 @@ import org.apache.log4j._
 /** Find the movies with the most ratings. */
 object PopularMovies {
  
-  /** Our main function where the action happens */
+  /** main function where the action happens */
   def main(args: Array[String]) {
    
     // Set the log level to only print errors
